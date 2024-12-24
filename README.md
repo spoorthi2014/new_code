@@ -1,2 +1,2 @@
-# new_code
-new repo
+devtest
+printf("hello word")
